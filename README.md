@@ -13,7 +13,8 @@ I specialize in developing applications that improve efficiency, transparency, a
 A smart system designed to help shop owners:
 - Track stock in real-time  
 - Monitor multiple branches  
-- Detect suspicious activity and reduce theft  
+- Detect suspicious activity and reduce theft
+- 🔗 **Live Demo:** https://shop-management-system-rho.vercel.app/  
 
 👉 Focus: Business control, transparency, and profitability  
 
